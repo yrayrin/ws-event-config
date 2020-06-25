@@ -11,7 +11,7 @@ spring:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
-    password: postgres
+    password: {cipher}bdabd1f18638d487332cf01e0b1ef8f3a29294ce9b2453c4c79d4d47e5cc48e6
 
 server:
   port: 8083
