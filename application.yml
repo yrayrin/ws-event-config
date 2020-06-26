@@ -10,7 +10,7 @@ spring:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
-    password: '{cipher}fc9f773e6df583df9d7bad1f74b14e6fc8190c0ae50b1fa0d173cf81e6b00041'
+    password: '{cipher}ee6bcb18201cdbf8a280702eff0c7b717bd8c03e4874b5fce744537e8a9a493c'
 
 yoke:
   notify:
