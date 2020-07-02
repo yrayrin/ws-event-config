@@ -14,4 +14,4 @@ spring:
 
 yoke:
   notify:
-    url: http://localhost:8082/event
+    url: http://yoke-notify/event
